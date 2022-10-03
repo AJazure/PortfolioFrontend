@@ -1,0 +1,13 @@
+#recursos imágenes
+assets/img/
+
+#recursos pdf
+assets/pdf/
+
+#vistaprevia y otros
+preview.png
+TextPortfolioWebsiteAnsel.txt
+.vscode
+empleados.json
+example01.ts
+main.js

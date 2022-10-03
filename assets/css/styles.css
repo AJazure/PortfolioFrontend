@@ -1,0 +1,94 @@
+/*=============== GOOGLE FONTS ===============*/
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins:wght@400;500;600&display=swap");
+
+/*=============== VARIABLES CSS ===============*/
+:root {
+  --header-height: 3.5rem;
+
+  /*========== Colors ==========*/
+  /*Color mode HSL(hue, saturation, lightness)*/
+  /*
+        Purple: hsl(250, 66%, 75%)
+        Blue: hsl(207, 90%, 72%)
+        Pink: hsl(356, 66%, 75%)
+        Teal: hsl(174, 63%, 62%)
+  */
+
+/* Responsive typography */
+
+
+/*=============== BASE ===============*/
+
+/*=============== THEME ===============*/
+
+
+/*========== Variables Dark theme ==========*/
+
+
+/*========== 
+    Color changes in some parts of 
+    the website, in light theme
+==========*/
+
+
+/*=============== REUSABLE CSS CLASSES ===============*/
+
+
+/*=============== HEADER & NAV===============*/
+
+/* Active link */
+
+
+/* Change background header */
+
+
+/*=============== HOME ===============*/
+
+
+/*=============== BUTTONS ===============*/
+
+
+/*=============== ABOUT ===============*/
+
+
+/*=============== SKILLS ===============*/
+
+
+/*=============== SERVICES ===============*/
+
+
+/* Services modal */
+
+
+/*Active modal*/
+
+
+/*=============== WORK ===============*/
+
+
+/* Active item work*/
+
+
+/*=============== TESTIMONIAL ===============*/
+
+
+/* Swiper class */
+
+
+/*=============== CONTACT ===============*/
+
+
+/*=============== FOOTER ===============*/
+
+
+/*=============== SCROLL BAR ===============*/
+
+
+/*=============== BREAKPOINTS ===============*/
+/* For small devices */
+
+
+/* For medium devices */
+
+
+/* For large devices */
